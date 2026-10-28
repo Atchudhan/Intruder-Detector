@@ -1,4 +1,8 @@
-# GuardSense: Building an IoT Intruder Detector
+---
+layout: page
+title: "GuardSense: Building an IoT Intruder Detector"
+permalink: /guardsense-cookbook.html
+---
 
 Welcome to **GuardSense** — a hands-on project series where you'll go from your very first blinking LED to a fully automated intruder-detection system that emails you an alert the moment motion is detected. Along the way you'll also build a pulse oximeter to measure heart rate and blood oxygen.
 
