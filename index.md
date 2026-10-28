@@ -551,3 +551,5 @@ void loop()
 The following Drive link contains the `.ino` files for all four projects above:
 
 [GuardSense Project Files (Google Drive)](https://drive.google.com/drive/folders/1Xgn3-47aWrxyXiMcQZI5E-3C1US_2t6s?usp=sharing)
+
+<!-- Trigger GitHub Pages rebuild -->
